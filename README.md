@@ -1,86 +1,86 @@
-# Bright Data's South Korea Proxies
+# Bright Dataの韓国プロキシ
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/it) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/it) 
 
-## Overview
-Experience seamless scraping with Bright Data's [South Korea proxies](https://brightdata.com/locations/it), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from South Korea and don't get blocked again.
+## 概要
+精密なターゲティング、比類のない安定性、迅速なレスポンスタイムを提供するよう設計されたBright Dataの[韓国プロキシ](https://brightdata.jp/locations/it)で、シームレスなスクレイピングをご体験ください。韓国からWebサイトのスクレイピングを開始し、二度とブロックされないようにしましょう。
 
-- **1.5M South Korea proxy IPs**
-- **Sticky and rotating sessions**
-- **99.95% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **City, state, ZIP code level targeting (Free)**
+- **韓国のプロキシIP 150万件**
+- **スティッキーセッションとローテーティングセッション**
+- **成功率 99.95%**
+- **HTTP(S) & SOCKS5対応**
+- **市、州、ZIPコードレベルのターゲティング（無料）**
 
-## Key Features
-- **High Success Rates**: Achieve up to 99.95% success in your scraping projects.
-- **Fast Response**: Average response time of ~0.7 seconds.
-- **Ethically Sourced**: All proxies are sourced with explicit user consent.
-- **Unlimited Concurrent Sessions**: Scale your operations without limitations.
+## 主な特長
+- **高い成功率**: スクレイピングプロジェクトで最大99.95%の成功率を実現できます。
+- **高速レスポンス**: 平均レスポンスタイムは約0.7秒です。
+- **倫理的に調達**: すべてのプロキシは、ユーザーの明確な同意のもとで調達されています。
+- **同時接続セッション無制限**: 制限なく運用をスケールできます。
 
-## Types of South Korea Proxies
+## 韓国プロキシの種類
 
-**[**Residential proxies**](https://brightdata.com/proxy-types/residential-proxies)** - Enjoy effortless scraping with the fastest residential proxies in the industry. Take advantage of accurate targeting and unparalleled reliability.
+**[**レジデンシャルプロキシ**](https://brightdata.jp/proxy-types/residential-proxies)** - 業界最速のレジデンシャルプロキシで、手間のかからないスクレイピングを実現できます。高精度なターゲティングと比類のない信頼性をご活用ください。
   
-- **HTTP(S)/ & SOCKS5 supported**
-- **Global customer support**
+- **HTTP(S)/ & SOCKS5対応**
+- **グローバルカスタマーサポート**
 
-**[**Datacenter proxies**](https://brightdata.com/proxy-types/datacenter-proxies)** - Effortlessly scale anonymous data collection using the fastest and most dependable datacenter IP pool.
+**[**データセンタープロキシ**](https://brightdata.jp/proxy-types/datacenter-proxies)** - 最速かつ最も信頼性の高いデータセンターIPプールを使用して、匿名のデータ収集を容易にスケールできます。
 
-- **0.24s resonse time**
-- **Pay-Per-IP or bandwidth usage**
+- **0.24秒のレスポンスタイム**
+- **IP単位または帯域幅使用量に応じた課金**
 
-**[**ISP proxies**](https://brightdata.com/proxy-types/isp-proxies)** - Highest quality static residential proxies that you can keep for life.
+**[**ISPプロキシ**](https://brightdata.jp/proxy-types/isp-proxies)** - 生涯保持できる最高品質のスタティックレジデンシャルプロキシです。
   
-- **Pay-per-IP or by bandwidth usage**
-- **Fastest response time in the industry**
+- **IP単位または帯域幅使用量に応じた課金**
+- **業界最速のレスポンスタイム**
 
-**[**Mobile proxies**](https://brightdata.com/proxy-types/mobile-proxies)** - View the web as real mobile users do with mobile IPs from around the globe.
+**[**モバイルプロキシ**](https://brightdata.jp/proxy-types/mobile-proxies)** - 世界中のモバイルIPで、実際のモバイルユーザーと同じようにWebを閲覧できます。
   
-- **3G/4G/5G mobile IPs**
-- **24/7 global support**
+- **3G/4G/5GのモバイルIP**
+- **24/7グローバルサポート**
 
-Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
+サインアップして、初回入金に対して最大$500まで1ドル対1ドルでマッチングを受け取れます！
 
-## Getting Started with Bright Data's South Korea proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
-3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
+## Bright Dataの韓国プロキシの始め方
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: APIまたはControl Panelを使用して、IPと構成を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けのクイックスタート例をご用意しています。
 
-## Integrations
-Our South Korea proxies integrate with popular tools and frameworks, including:
+## 連携
+当社の韓国プロキシは、以下を含む一般的なツールやフレームワークと連携できます。
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
-- [**All proxy integrations**](https://brightdata.com/integration)
+- [**Puppeteer**](https://brightdata.jp/integration/puppeteer)
+- [**Selenium**](https://brightdata.jp/integration/selenium)
+- [**Playwright**](https://brightdata.jp/integration/playwright)
+- [**AdsPower**](https://brightdata.jp/integration/adspower)
+- [**MultiLogin**](https://brightdata.jp/integration/multilogin)
+- [**すべてのプロキシ連携**](https://brightdata.jp/integration)
 
-## Popular Use Cases
-Explore how businesses leverage South Korea proxies:
+## 人気のユースケース
+企業が韓国プロキシをどのように活用しているかをご覧ください。
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Gather market data.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare prices across regions.
-- [**Financial Services**](https://brightdata.com/use-cases/financial): Analyze trends securely.
+- [**eCommerce**](https://brightdata.jp/use-cases/ecommerce): 価格とレビューを追跡します。
+- [**Social Media**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンドを監視します。
+- [**Real Estate**](https://brightdata.jp/use-cases/real-estate): 市場データを収集します。
+- [**Travel**](https://brightdata.jp/use-cases/travel): 地域間で価格を比較します。
+- [**Financial Services**](https://brightdata.jp/use-cases/financial): 安全にトレンドを分析します。
 
 ## FAQ
 
-### What is an South Korea proxy server?
-An South Korea proxy server is a server based in South Korea that serves as an intermediary between your device and the internet. It provides anonymity, helps bypass restrictions and blocks, enables web content scraping, and enforces content filtering policies.
+### 韓国プロキシサーバーとは何ですか？
+韓国プロキシサーバーは、韓国に設置されたサーバーであり、お使いのデバイスとインターネットの間に立つ仲介役として機能します。匿名性を提供し、制限やブロックの回避を支援し、Webコンテンツのスクレイピングを可能にし、コンテンツフィルタリングポリシーを適用します。
 
-### Can I target ZIP codes across South Korea?
-Yes, you can choose IPs using South Korea zip code level targeting. Bright Data also offers city and state level proxy targeting.
+### 韓国全域でZIPコードをターゲティングできますか？
+はい、韓国のZIPコードレベルのターゲティングを使用してIPを選択できます。Bright Dataでは、市および州レベルのプロキシターゲティングも提供しています。
 
-### What types of plans are available? 
-Bright Data offers flexible pricing models, including:
+### どのようなプランがありますか？ 
+Bright Dataは、以下を含む柔軟な料金モデルを提供しています。
 
-- **Pay-As-You-Go**: Fixed rate per GB.
-- **Subscription Plans**: Monthly, yearly, and custom options.
+- **Pay-As-You-Go**: GBあたりの固定料金です。
+- **Subscription Plans**: 月次、年次、カスタムのオプションがあります。
 
-### Are Bright Data's South Korea Proxies compliant and safe to use?
-Bright Data’s proxies are ethically sourced, and we comply with all relevant data protection laws, including GDPR and CCPA.
+### Bright Dataの韓国プロキシはコンプライアンスに準拠しており、安全に使用できますか？
+Bright Dataのプロキシは倫理的に調達されており、GDPRおよびCCPAを含む関連するすべてのデータ保護法に準拠しています。
 
-### Is there dedicated support available?
-Our dedicated support team is available 24/7 to assist you. Contact us to discuss your needs and maximize the benefits of our Dedicated proxy network.
+### 専任サポートは利用できますか？
+専任サポートチームが24/7で支援いたします。ニーズについてご相談いただき、Dedicated proxy networkの利点を最大化するために、ぜひお問い合わせください。
